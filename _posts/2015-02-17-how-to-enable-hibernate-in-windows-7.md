@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 7"
+title: "How to enable hibernate in windows 7"
 description: 
 headline: 
 modified: 2015-02-17
