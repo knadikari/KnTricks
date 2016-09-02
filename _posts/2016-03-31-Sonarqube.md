@@ -25,26 +25,26 @@ After that you should add Sonarqube scanner to your environment variable so that
 After that go to your project main folder and add a "sonar-project.properties" file with below content.
 
 <code>
-# must be unique in a given SonarQube instance
-sonar.projectKey=my:project
-# this is the name displayed in the SonarQube UI
-sonar.projectName=My project
-sonar.projectVersion=1.0
+# must be unique in a given SonarQube instance <br>
+sonar.projectKey=my:project<br>
+# this is the name displayed in the SonarQube UI<br>
+sonar.projectName=My project<br>
+sonar.projectVersion=1.0<br>
 </code>
 <code>
-# Path is relative to the sonar-project.properties file. Replace "\" by "/" on Windows.
-# Since SonarQube 4.2, this property is optional if sonar.modules is set. 
-# If not set, SonarQube starts looking for source code from the directory containing 
-# the sonar-project.properties file.
-sonar.sources=.
-#Path to test derectories(comment if no tests)
-#sonar.tests = Testdir
+# Path is relative to the sonar-project.properties file. Replace "\" by "/" on Windows.<br>
+# Since SonarQube 4.2, this property is optional if sonar.modules is set.<br>
+# If not set, SonarQube starts looking for source code from the directory containing<br>
+# the sonar-project.properties file.<br>
+sonar.sources=.<br>
+#Path to test derectories(comment if no tests)<br>
+#sonar.tests = Testdir<br>
 </code>
 <code>
-# Encoding of the source code. Default is default system encoding
+# Encoding of the source code. Default is default system encoding<br>
 </code>
 <code>
-#sonar.sourceEncoding=UTF-8
+#sonar.sourceEncoding=UTF-8<br>
 </code>
 
 After that we can start the server and analyze the source code. To start the server go to
