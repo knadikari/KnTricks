@@ -6,7 +6,7 @@ headline:
 modified: 2015-02-17
 category: webdevelopment
 tags: [jekyll]
-imagefeature: 
+imagefeature: winows7.jpg 
 mathjax: 
 chart: 
 comments: true
