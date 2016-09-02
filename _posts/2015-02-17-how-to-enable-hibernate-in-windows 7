@@ -4,10 +4,13 @@ title: "Introducing Notepad"
 description: 
 headline: 
 modified: 2015-02-17
-category: personal
-tags: []
-comments: true
+category: webdevelopment
+tags: [jekyll]
+imagefeature: 
 mathjax: 
+chart: 
+comments: true
+featured: true
 ---
 
 How to enable hibernate in windows 7
