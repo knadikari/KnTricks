@@ -24,30 +24,30 @@ Method 1
 First download and install Ruby installer for windows from "http://railsinstaller.org/en".
 With this installer you get the chance to install git and this will automatically add  necessary  environment variable to the system. 
 
-![]({{ site.url }}/images/post5/1.png) 
+![]({{ site.url }}/images/post5/1.PNG) 
 
 After the installation you can config and use git. 
 
-![Startmenu]({{ site.url }}/images/post5/2.png) 
+![Startmenu]({{ site.url }}/images/post5/2.PNG) 
 
 From this installation the Ruby dev kit is also installed so you do not have to download and install it manually. 
 To see whether that Ruby is installed correctly type "ruby -v" in the command line and see whether it gives the version of ruby. 
 
-![Startmenu]({{ site.url }}/images/post5/3.png) 
+![Startmenu]({{ site.url }}/images/post5/3.PNG) 
 
 If you did not get that add Ruby to your environment  variable. My path is "C:\RailsInstaller\Ruby2.2.0\bin". How to add environment variable
 
 To see whether the devkit also installed correctly you can type 
 "gem install json --platform=ruby" in the terminal this will install a gem called "json"  to ruby
 
-![Startmenu]({{ site.url }}/images/post5/4.png) 
+![Startmenu]({{ site.url }}/images/post5/4.PNG) 
 <h3>
 Method 2
 </h3>
 Go to "https://www.ruby-lang.org/en/downloads/" page and download the latest stable Ruby installer.
 
-
-RubyGems
+<h3>
+RubyGems</h3>
 Gems in ruby are some ruby code (actually these are like libraries) that has been packaged for easy distribution. RubyGems is the package manager that manages those gems.
 To make sure we have RubyGems type "gem -v" on the command prompt.
 
