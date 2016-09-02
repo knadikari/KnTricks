@@ -30,7 +30,8 @@ sonar.projectKey=my:project
 # this is the name displayed in the SonarQube UI
 sonar.projectName=My project
 sonar.projectVersion=1.0
-
+</code>
+<code>
 # Path is relative to the sonar-project.properties file. Replace "\" by "/" on Windows.
 # Since SonarQube 4.2, this property is optional if sonar.modules is set. 
 # If not set, SonarQube starts looking for source code from the directory containing 
@@ -38,9 +39,11 @@ sonar.projectVersion=1.0
 sonar.sources=.
 #Path to test derectories(comment if no tests)
 #sonar.tests = Testdir
-
+</code>
+<code>
 # Encoding of the source code. Default is default system encoding
-
+</code>
+<code>
 #sonar.sourceEncoding=UTF-8
 </code>
 
