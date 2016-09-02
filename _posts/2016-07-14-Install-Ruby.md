@@ -24,7 +24,7 @@ Method 1
 First download and install Ruby installer for windows from "http://railsinstaller.org/en".
 With this installer you get the chance to install git and this will automatically add  necessary  environment variable to the system. 
 
-![Startmenu]({{ site.url }}/images/post5/1.png) 
+![]({{ site.url }}/images/post5/1.png) 
 
 After the installation you can config and use git. 
 
@@ -51,11 +51,11 @@ RubyGems
 Gems in ruby are some ruby code (actually these are like libraries) that has been packaged for easy distribution. RubyGems is the package manager that manages those gems.
 To make sure we have RubyGems type "gem -v" on the command prompt.
 
-![Startmenu]({{ site.url }}/images/post5/5.png)  
+![Startmenu]({{ site.url }}/images/post5/gem-1.PNG)  
 
 You can get the gems list you have by typing "gem list"
 
-![Startmenu]({{ site.url }}/images/post5/6.png) 
+![Startmenu]({{ site.url }}/images/post5/gem-2.PNG) 
 
 To update the gems you can type "gem update --system". This will check and update your gems to their latest version.
 
