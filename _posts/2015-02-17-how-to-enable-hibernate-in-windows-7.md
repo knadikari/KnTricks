@@ -15,9 +15,9 @@ featured: true
 
 How to enable hibernate in windows 7
 
-
+<h3>
 Method 1
-
+</h3>
 1. Type “cmd” in search bar of the start menu and right click on the command prompt and select “Run as administrator” .
 
 ![Startmenu]({{ site.url }}/images/post1/trick-1-1.png)
@@ -34,9 +34,9 @@ Method 1
 
 ![]({{ site.url }}/images/post1/trick-1-3.png)
 
-
+<h3>
 Method 2
-
+</h3>
 1. Type ” regedit ” in search bar of the start menu and enter. You can also use “Ctrl + R” and open the run window and type ” regedit ” and enter.
 2. When register editting window came up navigate thorough
 ” HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power” in the left side menu. Do not expand the “power” folder.
