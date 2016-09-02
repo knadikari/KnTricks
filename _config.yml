@@ -72,7 +72,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'https://knadikari.github.io/'
-  relativeLinks: 'https://knadikari.github.io/links.jsonp'
+  relativeLinks: 'https://github.com/knadikari/knadikari.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
