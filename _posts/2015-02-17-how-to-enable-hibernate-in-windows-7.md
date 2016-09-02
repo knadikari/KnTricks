@@ -47,4 +47,4 @@ Method 2
 3. Then Double on ” HibernateEnabled” on the right side.
 4. Change the “value data” to 1 and click ok.
 
-![]({{ site.url }}/images/post1/trick-1-5.png
+![]({{ site.url }}/images/post1/trick-1-5.png)
